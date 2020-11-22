@@ -12,4 +12,4 @@ A browser-based card matching game built with React
 ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
 
 ### Victory
-![Victory](victory screen.png)
+![Victory](./victory screen.png)
