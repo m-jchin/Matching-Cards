@@ -1,3 +1,11 @@
+body{
+  background-image: url('game_board.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
 #root{
     display: flex;
     justify-content: center;
@@ -5,6 +13,21 @@
 
 #gameLoadedDiv{
     text-align: center;
+}
+
+#victory{
+  color: rgb(95, 185, 254);
+  text-shadow: 1px 1px  black;
+  font-size: 500px;
+  line-height: 500px;
+  text-align: center;
+}
+
+#selectDifficulty{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
 }
 
 #difficultyDiv{
@@ -43,7 +66,10 @@
 }
 
 .card__face--front {
-  background: #9c22bb;
+  
+  background-image: url('card_back.png');
+  background-size: 200px 260px;
+  background-repeat: no-repeat;
 }
 
 .card__face--back {
