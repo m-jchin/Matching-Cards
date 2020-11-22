@@ -11,9 +11,12 @@ A browser-based card matching game built with React
   
 ### Gameplay
 ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
+
 <p align="center">
   ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
+  <img align='center' src="https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif" width="480px" height="316px"/>
 </p>
+
   
 ### Victory
 <p align="center">
