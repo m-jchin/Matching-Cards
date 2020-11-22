@@ -6,5 +6,5 @@ A browser-based card matching game built with React
 - 'Victory!' displayed once all cards have been matched
 
 
-![Choosing Difficulty](https://giphy.com/gifs/eL4IW61UtowQ13YuA8)
+![Choosing Difficulty](https://media.giphy.com/media/eL4IW61UtowQ13YuA8/giphy.gif)
 
