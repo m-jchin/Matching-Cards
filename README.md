@@ -14,5 +14,8 @@ A browser-based card matching game built with React
 
   
 ### Victory
-<img align='center' src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px">
+<img align='center' src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px"/>
 
+<p align="center">
+  <img align='center' src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px"/>
+</p>
