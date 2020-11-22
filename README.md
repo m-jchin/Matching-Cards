@@ -9,10 +9,17 @@ A browser-based card matching game built with React
   
 ### Choosing a difficulty
 ![Choosing Difficulty](https://media.giphy.com/media/eL4IW61UtowQ13YuA8/giphy.gif)
+</p>
 
+<p align='center'>
+  
 ### Gameplay
 ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
 
+</p>
+
+<p align='center'>
+  
 ### Victory
 <img src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px">
 
