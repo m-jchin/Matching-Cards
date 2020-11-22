@@ -1,5 +1,5 @@
 # Matching-Cards
-A card matching game built with React[WIP]
+A card matching game built with React [WIP]
 
 **11/21/20**
 - Easy Difficulty works, Medium/Hard are WIP
