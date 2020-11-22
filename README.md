@@ -6,14 +6,12 @@ A browser-based card matching game built with React
 - 'Victory!' displayed once all cards have been matched
   
 ### Choosing a difficulty
-![Choosing Difficulty](https://media.giphy.com/media/eL4IW61UtowQ13YuA8/giphy.gif)
-
+<p align="center">
+  <img align='center' src="https://media.giphy.com/media/eL4IW61UtowQ13YuA8/giphy.gif" width="480px" height="316px"/>
+</p>
   
 ### Gameplay
-![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
-
 <p align="center">
-  ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
   <img align='center' src="https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif" width="480px" height="316px"/>
 </p>
 
