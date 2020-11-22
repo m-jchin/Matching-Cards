@@ -12,5 +12,5 @@ A browser-based card matching game built with React
 ![Choosing Difficulty](https://media.giphy.com/media/MKHlVAqU0SGXxcXYlJ/giphy.gif)
 
 ### Victory
-<img src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="200px" height="200px">
+<img src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px">
 
