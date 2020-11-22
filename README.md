@@ -5,6 +5,8 @@ A browser-based card matching game built with React
 - Easy difficulty has 12 cards, Medium has 18 cards, and Hard has 24 cards
 - 'Victory!' displayed once all cards have been matched
 
+<p align='center'>
+  
 ### Choosing a difficulty
 ![Choosing Difficulty](https://media.giphy.com/media/eL4IW61UtowQ13YuA8/giphy.gif)
 
@@ -14,3 +16,4 @@ A browser-based card matching game built with React
 ### Victory
 <img src="https://github.com/m-jchin/Matching-Cards/blob/main/victory%20screen.png" width="480px" height="316px">
 
+</p>
